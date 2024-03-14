@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|c:\\users\\atanas\\documents\\imagedownsizer\\imagedownsizerthreaded\\imagedownsizer\\imagedownsizer\\imagedownsizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imagedownsizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\imagedownsizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imagedownsizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\imageresultform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imageresultform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\imageresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imageresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\imageresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imageresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\imagedownsizer\\imagedownsizerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B476ED-A3CE-4552-AE04-B3F3B003EF76}|ImageDownsizer\\ImageDownsizer.csproj|solutionrelative:imagedownsizer\\imagedownsizerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageResultForm.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.cs",
+              "RelativeToolTip": "ImageDownsizer\\ImageResultForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:03:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageDownsizerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageDownsizerForm.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.cs",
+              "RelativeToolTip": "ImageDownsizer\\ImageDownsizerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:45:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageDownsizerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageDownsizerForm.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.cs [Design]",
+              "RelativeToolTip": "ImageDownsizer\\ImageDownsizerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:36:36.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageResultForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.Designer.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageResultForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.Designer.cs",
+              "RelativeToolTip": "ImageDownsizer\\ImageResultForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:36:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageResultForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageResultForm.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageResultForm.cs [Design]",
+              "RelativeToolTip": "ImageDownsizer\\ImageResultForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:36:36.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageDownsizerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.Designer.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\ImageDownsizerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\ImageDownsizerForm.Designer.cs",
+              "RelativeToolTip": "ImageDownsizer\\ImageDownsizerForm.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:36:36.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\Program.cs",
+              "RelativeDocumentMoniker": "ImageDownsizer\\Program.cs",
+              "ToolTip": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImageDownsizer\\ImageDownsizer\\Program.cs",
+              "RelativeToolTip": "ImageDownsizer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:36:36.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
