@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageDownsizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cce7ce5e93697549eae4da1d1fffdbf580ea0c49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cefa3cbd12153e8e02e3e4948a34da8c4119b1f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageDownsizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageDownsizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

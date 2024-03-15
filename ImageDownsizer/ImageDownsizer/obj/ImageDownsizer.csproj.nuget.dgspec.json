@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer.csproj": {}
+    "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\ImageDownsizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer.csproj": {
+    "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\ImageDownsizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
+        "projectUniqueName": "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
         "projectName": "ImageDownsizer",
-        "projectPath": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
+        "projectPath": "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
         "packagesPath": "C:\\Users\\Atanas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\obj\\",
+        "outputPath": "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Atanas\\AppData\\Roaming\\NuGet\\NuGet.Config",

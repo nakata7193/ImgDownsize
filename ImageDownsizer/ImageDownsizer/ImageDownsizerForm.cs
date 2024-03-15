@@ -10,8 +10,9 @@ namespace imgDownsizer
 
 		private Bitmap uploadedImg;
 		private ImageResultForm imgResultForm;
+        private Bitmap currentImg;
 
-		public ImgDownsizerForm()
+        public ImgDownsizerForm()
 		{
 			InitializeComponent();
 		}
@@ -29,7 +30,8 @@ namespace imgDownsizer
 				}
 
 				uploadedImg = new Bitmap(selectImg.FileName);
-				imgResultForm.imageResultBox.Image = uploadedImg;
+				currentImg = new Bitmap(uploadedImg);
+				imgResultForm.imageResultBox.Image = currentImg;
 			}
 		}
 
@@ -39,15 +41,15 @@ namespace imgDownsizer
 
 			Thread imgDownsizeThread = new Thread(delegate ()
 			{
-				if (uploadedImg != null && scale >= 1 && scale < 100)
+				if (currentImg != null && scale >= 1 && scale < 100)
 				{
 					int newWidth = (int)(uploadedImg.Width * (100 - scale) / 100.0);
 					int newHeight = (int)(uploadedImg.Height * (100 - scale) / 100.0);
 
 					if (newWidth > 0 && newHeight > 0)
 					{
-                        uploadedImg = new Bitmap(uploadedImg, newWidth, newHeight);
-						imgResultForm.imageResultBox.Image = uploadedImg;
+                        currentImg = new Bitmap(uploadedImg, newWidth, newHeight);
+						imgResultForm.imageResultBox.Image = currentImg;
 					}
 				}
 			});

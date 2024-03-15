@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIHeZMmwqOnixwVRp8pTeYXg66o2CV3reT6zKbI7ZqE7IY9fRNraufXREY2whcH3wp757ncOuoTjfBX2NMArjg==",
+  "dgSpecHash": "HdTfH+s2lhA3vUEs/HEkLHZhuui2owuKkcozUsVL3XqfSWy/rezlbLPFSfRslUQK9nKtz9Ftpb4Caf6VA0LcQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atanas\\Documents\\ImageDownsizer\\ImageDownsizerThreaded\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
+  "projectFilePath": "C:\\Users\\Atanas\\Documents\\ImgDownsizer\\ImageDownsizer\\ImageDownsizer\\ImageDownsizer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atanas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\Atanas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
