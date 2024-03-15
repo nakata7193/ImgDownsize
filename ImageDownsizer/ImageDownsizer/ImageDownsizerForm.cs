@@ -11,6 +11,7 @@ namespace imgDownsizer
 		private Bitmap uploadedImg;
 		private ImageResultForm imgResultForm;
         private Bitmap currentImg;
+		private Stopwatch stopwatch = new Stopwatch();
 
         public ImgDownsizerForm()
 		{
@@ -38,7 +39,7 @@ namespace imgDownsizer
 		public void ImgDownsize()
 		{
 			int scale = Convert.ToInt32(downsizeScaleValue.Value);
-
+			stopwatch.Start();
 			Thread imgDownsizeThread = new Thread(delegate ()
 			{
 				if (currentImg != null && scale >= 1 && scale < 100)
@@ -52,8 +53,12 @@ namespace imgDownsizer
 						imgResultForm.imageResultBox.Image = currentImg;
 					}
 				}
+				stopwatch.Stop();
 			});
 			imgDownsizeThread.Start();
+			imgDownsizeThread.Join();
+			MessageBox.Show($"Img downscaled successfully for {stopwatch.Elapsed.TotalMilliseconds} ms .","Img downsizer",MessageBoxButtons.OK);
+			stopwatch.Reset();
 		}
 
 		private void ImageDownsizerForm_Load(object sender, EventArgs e)
